@@ -40,7 +40,7 @@ git clone https://github.com/yourusername/machine-learning-projects.git
 cd image_classification
 ```
 
-3. Open the Jupyter notebook and run the code step by step.
+3. Open the jupyter notebook and run the code step by step.
 
 
 ## Notes
